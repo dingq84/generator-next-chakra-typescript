@@ -1,0 +1,9 @@
+{
+  "generator-node": {
+    "promptValues": {
+      "authorName": "Ding",
+      "authorEmail": "ding.chen@cloud-interactive.com",
+      "authorUrl": ""
+    }
+  }
+}
